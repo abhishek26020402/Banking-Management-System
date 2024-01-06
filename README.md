@@ -1,4 +1,4 @@
-# Banking-Management-System
+# Banking-Management-System_JDBC
  Banking System : Java based Banking System with MySQL Integration. <br>
 JDBC (Java Database Connectivity) is used for database interactions.<br>
 This project utilizes a MySQL database to store user information, account details, and transaction records.Code is organized into classes with methods focusing on specific functionalities for better maintainability.<br>
